@@ -1,0 +1,8 @@
+{
+  "name": "fake-naira-detector",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-loader-spinner": "^6.1.6"
+  }
+}
